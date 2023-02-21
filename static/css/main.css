@@ -394,7 +394,10 @@ footer .theme-by {
     border-top: 1px #AAA solid;
   }
   footer a {
-    color: #AAA;
+    color: #ffff;
+  }
+  .text-muted {
+    color: #bbb;
   }
 }
 
