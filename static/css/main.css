@@ -396,9 +396,11 @@ footer .theme-by {
   footer a {
     color: #ffff;
   }
-  .text-muted {
+  footer .text-muted {
     color: #bbb;
   }
+  footer .fa-inverse {
+    color: #444; }
 }
 
 /* --- Post preview --- */
